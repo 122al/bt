@@ -1,7 +1,7 @@
 #!/bin/bash
 #全局变量
 version_url=https://download.btpanel.cm
-down_url=https://22.al
+down_url=https://raw.githubusercontent.com/122al/bt/main
 btdown_url=https://download.bt.cn
 panel_path=/www/server/panel
 tools_version='Build 210903'
